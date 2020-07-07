@@ -37,7 +37,7 @@ namespace EdSigConNEW.Controllers
         }
 
         public ActionResult EdSigCon()
-        {
+        {// add a comment to see if we can force the merge - this one from the master
             return View();
         }
     }
