@@ -38,6 +38,7 @@ namespace EdSigConNEW.Controllers
 
         public ActionResult EdSigCon()
         {
+            // this is a comment added in the branch at the samem place as the comment in the master
             return View();
         }
     }
