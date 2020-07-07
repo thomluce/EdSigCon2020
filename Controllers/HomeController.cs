@@ -35,5 +35,10 @@ namespace EdSigConNEW.Controllers
         {
             return View();
         }
+
+        public ActionResult EdSigCon()
+        {
+            return View();
+        }
     }
 }

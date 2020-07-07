@@ -164,6 +164,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Covid19.cshtml" />
     <Content Include="Views\Home\GitHub.cshtml" />
+    <Content Include="Views\Home\EdSigCon.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
