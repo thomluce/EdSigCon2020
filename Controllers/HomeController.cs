@@ -26,5 +26,10 @@ namespace EdSigConNEW.Controllers
 
             return View();
         }
+
+        public ActionResult GitHub()
+        {
+            return View();
+        }
     }
 }
