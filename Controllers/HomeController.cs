@@ -26,5 +26,10 @@ namespace EdSigConNEW.Controllers
 
             return View();
         }
+
+        public ActionResult Covid19()
+        {
+            return View();
+        }
     }
 }
